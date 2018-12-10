@@ -20,3 +20,5 @@ puts "C'est drôle ça, faisons-en plus :"
 puts "Est-ce que 5 est plus grand que -2? #{5>-2}"
 puts "Est-ce que 5 est supérieur ou égal -2? #{5>=2}"
 puts "Est-ce que 5 est inférieur ou égal -2? #{5<=2}"
+
+#les signes #{} servent à utiliser une variable dans un string
